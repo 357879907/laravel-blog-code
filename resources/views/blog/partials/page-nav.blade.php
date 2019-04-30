@@ -17,7 +17,7 @@
             </ul>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/contact">联系我们</a>
+                    <a class="nav-link" href="/contact">联系我们1</a>
                 </li>
             </ul>
         </div>
